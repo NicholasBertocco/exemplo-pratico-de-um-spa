@@ -1,0 +1,29 @@
+.boxHeader{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgb(168, 168, 168);
+    height: 100px;
+
+}
+.navegacao{
+    display: flex;    
+}
+.Link{
+    text-decoration:none;
+    color: azure;
+    font-weight: bold;
+    padding: 15px;
+    background-color: black;
+    margin: 5px;
+    text-align: center;
+    border-radius: 5px;
+}
+.Link:hover{
+    color: black;
+    background-color: azure;
+}
+.logo{
+    font-size: 25px;
+    font-weight: bolder;
+}

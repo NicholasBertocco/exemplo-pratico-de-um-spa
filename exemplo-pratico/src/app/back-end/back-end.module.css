@@ -1,0 +1,20 @@
+.body{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 79.2vh;
+}
+.secao{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+.container{
+    width:300px;
+    background-color:brown;
+    padding: 50px;
+    border-radius: 10px;
+    color: aliceblue;
+
+}
